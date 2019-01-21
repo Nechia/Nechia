@@ -1,0 +1,106 @@
+body {
+   background-color: black; 
+
+}
+#about-me img{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 200px;
+	font-family: Zentyp;
+	font-size: 50px;
+	padding: 40px;
+	color: orange;
+	width: 400px;
+	height: 400px;
+}
+
+#about-me p{
+	position: absolute;
+	left: 300px;
+	top: 120px;
+	color: white;
+	font-family: Zentyp;
+	font-size: 100px;
+	opacity:0;
+}
+
+#about-me p:hover{
+	position: absolute;
+	left: 300px;
+	top: 120px;
+	color: white;
+	font-family: Zentyp;
+	font-size: 100px;
+	opacity: 0.9;
+}
+
+#contacts img{
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 30px;
+	font-family: Zentyp;
+	font-size: 50px;
+	padding: 40px;
+	color: green;
+	width: 350px;
+	height: 400px;
+}
+#my-interests img{
+	position: absolute;
+	margin-left: 220px;
+	margin-top: 450px;
+	font-family: Zentyp;
+	font-size: 50px;
+	padding: 30px;
+	color: purple;
+	width: 350px;
+	height: 400px;
+}
+#my-work img{
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 450px;
+	font-family: Zentyp;
+	font-size: 50px;
+	padding: 30px;
+	color: red;
+	width: 400px;
+	height: 400px;
+}
+#my-work p{
+	position: absolute;
+	right: 300px;
+	top: 525px;
+	color: white;
+	font-family: Zentyp;
+	font-size: 100px;
+	opacity:0;
+}
+
+#my-work p:hover{
+	position: absolute;
+	right: 300px;
+	top: 525px;
+	color: white;
+	font-family: Zentyp;
+	font-size: 100px;
+	opacity: 0.9;
+}
+#title{
+	position:absolute;
+	margin-top: 0px;
+	left:100px;
+	text-align: justify;
+	font-family: Zentyp;
+	font-size:50px;
+	font-weight: 8000;
+	padding: 30px;
+	padding-left: 5px;
+	color: white;
+
+}
+@font-face{
+	src:url(Youth-Touch-PERSONAL.ttf);
+	font-family: Zentyp;
+}
+

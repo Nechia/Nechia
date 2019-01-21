@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+#title {
+	position: center;
+	font-family: Zentyp;
+	font-size: 85px;
+	color: white;
+}
+#text {
+	position: center;
+	color: white;
+	font-size:20px;
+	font-family: Times New Roman;
+}
+@font-face{
+	src:url(Youth-Touch-PERSONAL.ttf);
+	font-family: Zentyp;
+}
+a{
+	color:white;
+	font-size:20px
+}

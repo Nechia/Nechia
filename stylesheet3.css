@@ -1,0 +1,93 @@
+body {
+	background-color: black;
+	background-position: top;
+}
+#title {
+	position: center;
+	font-family: Zentyp;
+	font-size: 85px;
+	color: white;
+}
+
+@font-face{
+	src:url(Youth-Touch-PERSONAL.ttf);
+	font-family: Zentyp;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+/*.fa:hover {
+    opacity: 0.7;
+}*/
+
+.fa-linkedin {
+	position: absolute;
+left: 150px;
+top:200px;
+  background: #55ACEE;
+  color: white;
+  padding:50px;
+   border-radius: 50%;
+
+}
+
+.fa-google {
+	position: absolute;
+left: 150px;
+top: 400px;
+  background: #dd4b39;
+  color: white;
+  padding: 50px;
+   border-radius: 50%;
+}
+
+.fa-instagram {
+	position: absolute;
+left: 150px;
+top: 600px; ;
+  background: #007bb5;
+  color: white;
+  padding: 50px;
+  border-radius: 50%;
+
+}
+
+.fa-twitter {
+	position: absolute;
+left: 150px;
+top: 800px;
+  background: #125688;
+  color: white;
+  padding: 50px;
+   border-radius: 50%;
+
+}
+
+
+.fa-snapchat-ghost {
+	position: absolute;
+	left: 150px;
+	top: 1000px;
+ 	 background: #fffc00;
+  	color: white;
+  	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ 	 padding: 50px;
+   border-radius: 50%;
+}
+
+div{
+	color: white;
+	font-size: 20px;
+}
+
+a{
+	color:white;
+	font-size:20px;
+}
